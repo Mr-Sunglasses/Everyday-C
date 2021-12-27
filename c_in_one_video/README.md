@@ -2,10 +2,10 @@
 
 ## Video Refrence - https://www.youtube.com/watch?v=87SH2Cn0s9A
 
-- [ ] #1   (00:00:00) C tutorial for beginners 🕹️
-- [ ] #2   (00:12:36) compile and run a C program with cmd 🏗️ (optional video)
-- [ ] #3   (00:14:35) comments & escape sequences 💬
-- [ ] #4   (00:19:39) variables 💰
+- [-] #1   (00:00:00) C tutorial for beginners 🕹️
+- [-] #2   (00:12:36) compile and run a C program with cmd 🏗️ (optional video)
+- [-] #3   (00:14:35) comments & escape sequences 💬
+- [-] #4   (00:19:39) variables 💰
 - [ ] #5   (00:27:09) data types 📊
 - [ ] #6   (00:38:16) format specifiers 🔧
 - [ ] #7   (00:41:31) constants 🚫
