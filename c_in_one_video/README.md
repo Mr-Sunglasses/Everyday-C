@@ -7,8 +7,8 @@
 - [X] #3   (00:14:35) comments & escape sequences 💬
 - [X] #4   (00:19:39) variables 💰
 - [X] #5   (00:27:09) data types 📊
-- [ ] #6   (00:38:16) format specifiers 🔧
-- [ ] #7   (00:41:31) constants 🚫
+- [X] #6   (00:38:16) format specifiers 🔧
+- [X] #7   (00:41:31) constants 🚫
 - [ ] #8   (00:42:43) arithmetic operators ➗
 - [ ] #9   (00:46:15) augmented assignment operators 🧮
 - [ ] #10 (00:48:18) user input ⌨️
