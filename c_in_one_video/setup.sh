@@ -1,3 +1,3 @@
 git add .
-git commit -m "Done"
+git commit -m "Done 👏🏻"
 git push
