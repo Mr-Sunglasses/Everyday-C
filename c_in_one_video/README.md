@@ -9,9 +9,9 @@
 - [X] #5   (00:27:09) data types 📊
 - [X] #6   (00:38:16) format specifiers 🔧
 - [X] #7   (00:41:31) constants 🚫
-- [ ] #8   (00:42:43) arithmetic operators ➗
-- [ ] #9   (00:46:15) augmented assignment operators 🧮
-- [ ] #10 (00:48:18) user input ⌨️
+- [X] #8   (00:42:43) arithmetic operators ➗
+- [X] #9   (00:46:15) augmented assignment operators 🧮
+- [X] #10 (00:48:18) user input ⌨️
 - [ ] #11 (00:55:16) math functions 📚
 - [ ] #12 (00:57:57) circle circumference program ⚪
 - [ ] #13 (01:00:46) hypotenuse calculator program 📐
