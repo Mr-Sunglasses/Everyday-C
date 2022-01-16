@@ -9,7 +9,6 @@ int main(){
 
     greet_birthday("Kanishk Pachauri",19);
 
-
     return 0;
 }
 
